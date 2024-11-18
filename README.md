@@ -1,4 +1,7 @@
 # EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT
+## Name: Samakash R S
+## Reg no: 212223230182
+## Date: 06/11/2024
 
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
